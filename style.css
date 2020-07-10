@@ -14,15 +14,15 @@ canvas {
     padding: 1rem 1.25rem;
     font-size: 1.5rem;
     letter-spacing: .25rem;
-    box-shadow: 2px 2px 0px 1px #4a4c69;
+    box-shadow: 2px 2px 0px 1px #f18e9e;
     text-transform: uppercase;
-    background-color: #8386b5;
+    background-color: #e06987;
     border: none;
     border-radius: .75rem;
-    color: #fff;
+    color: rgb(240, 233, 233);
 }
 
 .botao-tela-inicial:hover {
-    background-color: #ffc0c1;
+    background-color: #ca3030;
     box-shadow: 2px 2px 0px 1px #b58a8a;
 }
