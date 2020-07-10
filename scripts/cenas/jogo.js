@@ -29,7 +29,7 @@ class Jogo {
     }
 
     keyPressed() {
-        if (key === 'ArrowUp' || key === 'w') {
+        if (key === 'ArrowUp' || key === 'w' || keyCode === 32) {
             personagem.pula();
             somDoPulo.play();
         }
