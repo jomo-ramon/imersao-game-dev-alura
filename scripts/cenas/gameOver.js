@@ -18,7 +18,7 @@ class GameOver {
         fill('white');
         stroke('red');
         textSize(50);
-        text('Clique em iniciar para tentar novamente', width / 2, height / 3.5 * 2);
+        text('Aperte Enter para tentar novamente', width / 2, height / 3.5 * 2);
         textAlign(CENTER);
         textSize(150);
         fill('white');
